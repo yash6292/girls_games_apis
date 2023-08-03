@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "data": {
+    "category": {
+      "NewGirlsGame": [
+        {
+          "id": "1",
+          "game_name": "Funny Haircut",
+          "game_image": "https://imgs2.dab3games.com/funny-haircut-game.png",
+          "game_link": "https://lagged.com/play/2679/",
+          "players": "870K players"
+        },
+        {
+          "id": "4",
+          "game_name": "Swimming Romance",
+          "game_image": "https://imgs2.dab3games.com/swimming-pool-romance-game.png",
+          "game_link": "https://lagged.com/play/2671/",
+          "players": "870K players"
+        },
+        {
+          "id": "5",
+          "game_name": "Princess Lovely",
+          "game_image": "https://imgs2.dab3games.com/princess-lovely-fashion-game2.png",
+          "game_link": "https://lagged.com/play/3847/",
+          "players": "870K players"
+        },
+        {
+          "id": "6",
+          "game_name": "Glam Look",
+          "game_image": "https://imgs2.dab3games.com/my-quarantine-glam-look-91.png",
+          "game_link": "https://lagged.com/play/4187/",
+          "players": "870K players"
+        }
+      ],
+      "TrendingGames": [
+        {
+          "id": "7",
+          "game_name": "Funny Rescue Carpenter",
+          "game_image": "https://imgs2.dab3games.com/funny-rescue-carpenter-game.png",
+          "game_link": "https://lagged.com/play/2675/",
+          "players": "870K players"
+        },
+        {
+          "id": "8",
+          "game_name": "Talking Tom",
+          "game_image": "https://imgs2.dab3games.com/talking-tom-game.png",
+          "game_link": "https://lagged.com/play/2099/",
+          "players": "870K players"
+        },
+        {
+          "id": "9",
+          "game_name": "Hair Do Design 2",
+          "game_image": "https://imgs2.dab3games.com/hair-do-design-2-game.png",
+          "game_link": "https://lagged.com/play/2073/",
+          "players": "870K players"
+        }
+      ],
+      "MostPopularGames": [
+        {
+          "id": "10",
+          "game_name": "Yes That Dress",
+          "game_image": "https://imgs2.dab3games.com/yes-that-dress-game.png",
+          "game_link": "https://lagged.com/play/2957/",
+          "players": "870K players"
+        },
+        {
+          "id": "11",
+          "game_name": "Elsa Beauty Bath",
+          "game_image": "https://imgs2.dab3games.com/elsa-beauty-bath-game-gi4.png",
+          "game_link": "https://lagged.com/play/554/",
+          "players": "870K players"
+        },
+        {
+          "id": "12",
+          "game_name": "Christmas Preparation",
+          "game_image": "https://imgs2.dab3games.com/ellie-and-ben-christmas-preparation-678.png",
+          "game_link": "https://lagged.com/play/4934/",
+          "players": "870K players"
+        },
+        {
+          "id": "13",
+          "game_name": "Queen Designer",
+          "game_image": "https://imgs2.dab3games.com/queen-designer-game9.png",
+          "game_link": "https://lagged.com/play/3531/",
+          "players": "870K players"
+        }
+      ],
+      "LatestGames": [
+        {
+          "id": "10",
+          "game_name": "Yes That Dress",
+          "game_image": "https://imgs2.dab3games.com/yes-that-dress-game.png",
+          "game_link": "https://lagged.com/play/2957/",
+          "players": "870K players"
+        },
+        {
+          "id": "11",
+          "game_name": "Elsa Beauty Bath",
+          "game_image": "https://imgs2.dab3games.com/elsa-beauty-bath-game-gi4.png",
+          "game_link": "https://lagged.com/play/554/",
+          "players": "870K players"
+        },
+        {
+          "id": "12",
+          "game_name": "Christmas Preparation",
+          "game_image": "https://imgs2.dab3games.com/ellie-and-ben-christmas-preparation-678.png",
+          "game_link": "https://lagged.com/play/4934/",
+          "players": "870K players"
+        },
+        {
+          "id": "13",
+          "game_name": "Queen Designer",
+          "game_image": "https://imgs2.dab3games.com/queen-designer-game9.png",
+          "game_link": "https://lagged.com/play/3531/",
+          "players": "870K players"
+        },
+        {
+          "id": "14",
+          "game_name": "BFFs Trendy Squad",
+          "game_image": "https://imgs2.dab3games.com/200x20044.png",
+          "game_link": "https://lagged.com/play/3920/",
+          "players": "870K players"
+        }
+      ],
+      "AllGames": [
+        {
+          "id": "1",
+          "game_name": "Funny Haircut",
+          "game_image": "https://imgs2.dab3games.com/funny-haircut-game.png",
+          "game_link": "https://lagged.com/play/2679/",
+          "players": "870K players"
+        },
+        {
+          "id": "2",
+          "game_name": "Catwalk Beauty",
+          "game_image": "https://imgs2.dab3games.com/catwalk-beauty-online11.png",
+          "game_link": "https://lagged.com/play/3329/",
+          "players": "870K players"
+        },
+        {
+          "id": "3",
+          "game_name": "Perfect Salon",
+          "game_image": "https://imgs2.dab3games.com/perfect-salon-game478.png",
+          "game_link": "https://lagged.com/play/3150/",
+          "players": "870K players"
+        },
+        {
+          "id": "4",
+          "game_name": "Swimming Romance",
+          "game_image": "https://imgs2.dab3games.com/swimming-pool-romance-game.png",
+          "game_link": "https://lagged.com/play/2671/",
+          "players": "870K players"
+        },
+        {
+          "id": "5",
+          "game_name": "Princess Lovely",
+          "game_image": "https://imgs2.dab3games.com/princess-lovely-fashion-game2.png",
+          "game_link": "https://lagged.com/play/3847/",
+          "players": "870K players"
+        },
+        {
+          "id": "6",
+          "game_name": "Glam Look",
+          "game_image": "https://imgs2.dab3games.com/my-quarantine-glam-look-91.png",
+          "game_link": "https://lagged.com/play/4187/",
+          "players": "870K players"
+        },
+        {
+          "id": "7",
+          "game_name": "Funny Rescue Carpenter",
+          "game_image": "https://imgs2.dab3games.com/funny-rescue-carpenter-game.png",
+          "game_link": "https://lagged.com/play/2675/",
+          "players": "870K players"
+        },
+        {
+          "id": "8",
+          "game_name": "Talking Tom",
+          "game_image": "https://imgs2.dab3games.com/talking-tom-game.png",
+          "game_link": "https://lagged.com/play/2099/",
+          "players": "870K players"
+        },
+        {
+          "id": "9",
+          "game_name": "Hair Do Design 2",
+          "game_image": "https://imgs2.dab3games.com/hair-do-design-2-game.png",
+          "game_link": "https://lagged.com/play/2073/",
+          "players": "870K players"
+        },
+        {
+          "id": "10",
+          "game_name": "Yes That Dress",
+          "game_image": "https://imgs2.dab3games.com/yes-that-dress-game.png",
+          "game_link": "https://lagged.com/play/2957/",
+          "players": "870K players"
+        },
+        {
+          "id": "11",
+          "game_name": "Elsa Beauty Bath",
+          "game_image": "https://imgs2.dab3games.com/elsa-beauty-bath-game-gi4.png",
+          "game_link": "https://lagged.com/play/554/",
+          "players": "870K players"
+        },
+        {
+          "id": "12",
+          "game_name": "Christmas Preparation",
+          "game_image": "https://imgs2.dab3games.com/ellie-and-ben-christmas-preparation-678.png",
+          "game_link": "https://lagged.com/play/4934/",
+          "players": "870K players"
+        },
+        {
+          "id": "13",
+          "game_name": "Queen Designer",
+          "game_image": "https://imgs2.dab3games.com/queen-designer-game9.png",
+          "game_link": "https://lagged.com/play/3531/",
+          "players": "870K players"
+        },
+        {
+          "id": "14",
+          "game_name": "BFFs Trendy Squad",
+          "game_image": "https://imgs2.dab3games.com/200x20044.png",
+          "game_link": "https://lagged.com/play/3920/",
+          "players": "870K players"
+        }
+      ]
+    }
+  }
+}
